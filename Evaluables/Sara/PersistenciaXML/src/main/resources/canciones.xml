@@ -1,0 +1,33 @@
+<listacanciones>
+  <cancion>
+    <numeroCancion>1</numeroCancion>
+    <nombre>Sara</nombre>
+    <autor>Jose</autor>
+    <duracion>6</duracion>
+    <anyo>2020</anyo>
+    <single>true</single>
+    <discografica>
+      <nombre>MTV</nombre>
+      <cif>1234</cif>
+      <direccion>America</direccion>
+      <presupuesto>1000.0</presupuesto>
+    </discografica>
+    <pais>España</pais>
+    <pais>Francia</pais>
+    <pais>Colombia</pais>
+  </cancion>
+  <cancion>
+    <numeroCancion>2</numeroCancion>
+    <nombre>Pepe</nombre>
+    <autor>Paco</autor>
+    <duracion>3</duracion>
+    <anyo>2021</anyo>
+    <single>true</single>
+    <discografica>
+      <nombre>MTV</nombre>
+      <cif>567</cif>
+      <direccion>Francia</direccion>
+      <presupuesto>2000.0</presupuesto>
+    </discografica>
+  </cancion>
+</listacanciones>
